@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+08:29:48	54/54	---M-Z	-1	error ('Open%20error%20when%20decompressing%20(can%20not%20create%20temporary%20file%20/tmp0.z)')	text/plain	etag:W/%2258850b98-22%22	https://xkcd.com/robots.txt		(from )
+08:29:48	7611/7611	---M-Z	200	added ('OK')	text/html	etag:W/%225f56b34a-1dbb%22	https://xkcd.com/208/	xkcd.com/208/index.html	(from )
+08:29:48	162/162	---M-Z	404	error ('Not%20Found')	text/html	date:Tue,%2008%20Sep%202020%2005:29:48%20GMT	https://xkcd.com/208/GET	xkcd.com/208/GET	(from https://xkcd.com/208/)
